@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "Ask",
+      "slots": [
+        {
+          "name": "Movie",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "Property",
+          "type": "LIST_OF_PROPERTIES"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1200 @@
+Ask for {The Godfather|Movie} {Property}
+Ask for {The Shawshank Redemption|Movie} {Property}
+Ask for {Schindler's List|Movie} {Property}
+Ask for {Raging Bull|Movie} {Property}
+Ask for {Casablanca|Movie} {Property}
+Ask for {One Flew Over the Cuckoo's Nest|Movie} {Property}
+Ask for {Gone with the Wind|Movie} {Property}
+Ask for {Citizen Kane|Movie} {Property}
+Ask for {The Wizard of Oz|Movie} {Property}
+Ask for {Lawrence of Arabia|Movie} {Property}
+Ask for {Sunset Blvd.|Movie} {Property}
+Ask for {Psycho|Movie} {Property}
+Ask for {The Godfather Part II|Movie} {Property}
+Ask for {On the Waterfront|Movie} {Property}
+Ask for {Vertigo|Movie} {Property}
+Ask for {Forrest Gump|Movie} {Property}
+Ask for {The Sound of Music|Movie} {Property}
+Ask for {West Side Story|Movie} {Property}
+Ask for {Star Wars|Movie} {Property}
+Ask for {E.T. the Extra-Terrestrial|Movie} {Property}
+Ask for {two zero zero one  A Space Odyssey|Movie} {Property}
+Ask for {The Silence of the Lambs|Movie} {Property}
+Ask for {Chinatown|Movie} {Property}
+Ask for {The Bridge on the River Kwai|Movie} {Property}
+Ask for {Singin' in the Rain|Movie} {Property}
+Ask for {It's a Wonderful Life|Movie} {Property}
+Ask for {Some Like It Hot|Movie} {Property}
+Ask for {one two  Angry Men|Movie} {Property}
+Ask for {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie} {Property}
+Ask for {Amadeus|Movie} {Property}
+Ask for {Ben-Hur|Movie} {Property}
+Ask for {Apocalypse Now|Movie} {Property}
+Ask for {The Lord of the Rings The Return of the King|Movie} {Property}
+Ask for {Gladiator|Movie} {Property}
+Ask for {From Here to Eternity|Movie} {Property}
+Ask for {Titanic|Movie} {Property}
+Ask for {Saving Private Ryan|Movie} {Property}
+Ask for {Unforgiven|Movie} {Property}
+Ask for {Raiders of the Lost Ark|Movie} {Property}
+Ask for {Rocky|Movie} {Property}
+Ask for {A Streetcar Named Desire|Movie} {Property}
+Ask for {The Philadelphia Story|Movie} {Property}
+Ask for {To Kill a Mockingbird|Movie} {Property}
+Ask for {An American in Paris|Movie} {Property}
+Ask for {The Best Years of Our Lives|Movie} {Property}
+Ask for {My Fair Lady|Movie} {Property}
+Ask for {A Clockwork Orange|Movie} {Property}
+Ask for {Doctor Zhivago|Movie} {Property}
+Ask for {Patton|Movie} {Property}
+Ask for {Jaws|Movie} {Property}
+Ask for {Braveheart|Movie} {Property}
+Ask for {Butch Cassidy and the Sundance Kid|Movie} {Property}
+Ask for {The Good the Bad and the Ugly|Movie} {Property}
+Ask for {The Treasure of the Sierra Madre|Movie} {Property}
+Ask for {The Apartment|Movie} {Property}
+Ask for {Platoon|Movie} {Property}
+Ask for {High Noon|Movie} {Property}
+Ask for {Dances with Wolves|Movie} {Property}
+Ask for {The Pianist|Movie} {Property}
+Ask for {Goodfellas|Movie} {Property}
+Ask for {The Exorcist|Movie} {Property}
+Ask for {The Deer Hunter|Movie} {Property}
+Ask for {All Quiet on the Western Front|Movie} {Property}
+Ask for {Bonnie and Clyde|Movie} {Property}
+Ask for {The French Connection|Movie} {Property}
+Ask for {City Lights|Movie} {Property}
+Ask for {It Happened One Night|Movie} {Property}
+Ask for {A Place in the Sun|Movie} {Property}
+Ask for {Midnight Cowboy|Movie} {Property}
+Ask for {Mr. Smith Goes to Washington|Movie} {Property}
+Ask for {Rain Man|Movie} {Property}
+Ask for {Annie Hall|Movie} {Property}
+Ask for {Tootsie|Movie} {Property}
+Ask for {Fargo|Movie} {Property}
+Ask for {Giant|Movie} {Property}
+Ask for {The Grapes of Wrath|Movie} {Property}
+Ask for {Good Will Hunting|Movie} {Property}
+Ask for {Shane|Movie} {Property}
+Ask for {Terms of Endearment|Movie} {Property}
+Ask for {The Green Mile|Movie} {Property}
+Ask for {Close Encounters of the Third Kind|Movie} {Property}
+Ask for {Nashville|Movie} {Property}
+Ask for {Network|Movie} {Property}
+Ask for {The Graduate|Movie} {Property}
+Ask for {American Graffiti|Movie} {Property}
+Ask for {Pulp Fiction|Movie} {Property}
+Ask for {The African Queen|Movie} {Property}
+Ask for {Stagecoach|Movie} {Property}
+Ask for {Mutiny on the Bounty|Movie} {Property}
+Ask for {The Great Dictator|Movie} {Property}
+Ask for {The Maltese Falcon|Movie} {Property}
+Ask for {Taxi Driver|Movie} {Property}
+Ask for {Wuthering Heights|Movie} {Property}
+Ask for {Double Indemnity|Movie} {Property}
+Ask for {Rebel Without a Cause|Movie} {Property}
+Ask for {Rear Window|Movie} {Property}
+Ask for {The Third Man|Movie} {Property}
+Ask for {Frankenstein|Movie} {Property}
+Ask for {North by Northwest|Movie} {Property}
+Ask for {Yankee Doodle Dandy|Movie} {Property}
+Ask for the {The Godfather|Movie} {Property}
+Ask for the {The Shawshank Redemption|Movie} {Property}
+Ask for the {Schindler's List|Movie} {Property}
+Ask for the {Raging Bull|Movie} {Property}
+Ask for the {Casablanca|Movie} {Property}
+Ask for the {One Flew Over the Cuckoo's Nest|Movie} {Property}
+Ask for the {Gone with the Wind|Movie} {Property}
+Ask for the {Citizen Kane|Movie} {Property}
+Ask for the {The Wizard of Oz|Movie} {Property}
+Ask for the {Lawrence of Arabia|Movie} {Property}
+Ask for the {Sunset Blvd.|Movie} {Property}
+Ask for the {Psycho|Movie} {Property}
+Ask for the {The Godfather Part II|Movie} {Property}
+Ask for the {On the Waterfront|Movie} {Property}
+Ask for the {Vertigo|Movie} {Property}
+Ask for the {Forrest Gump|Movie} {Property}
+Ask for the {The Sound of Music|Movie} {Property}
+Ask for the {West Side Story|Movie} {Property}
+Ask for the {Star Wars|Movie} {Property}
+Ask for the {E.T. the Extra-Terrestrial|Movie} {Property}
+Ask for the {two zero zero one  A Space Odyssey|Movie} {Property}
+Ask for the {The Silence of the Lambs|Movie} {Property}
+Ask for the {Chinatown|Movie} {Property}
+Ask for the {The Bridge on the River Kwai|Movie} {Property}
+Ask for the {Singin' in the Rain|Movie} {Property}
+Ask for the {It's a Wonderful Life|Movie} {Property}
+Ask for the {Some Like It Hot|Movie} {Property}
+Ask for the {one two  Angry Men|Movie} {Property}
+Ask for the {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie} {Property}
+Ask for the {Amadeus|Movie} {Property}
+Ask for the {Ben-Hur|Movie} {Property}
+Ask for the {Apocalypse Now|Movie} {Property}
+Ask for the {The Lord of the Rings The Return of the King|Movie} {Property}
+Ask for the {Gladiator|Movie} {Property}
+Ask for the {From Here to Eternity|Movie} {Property}
+Ask for the {Titanic|Movie} {Property}
+Ask for the {Saving Private Ryan|Movie} {Property}
+Ask for the {Unforgiven|Movie} {Property}
+Ask for the {Raiders of the Lost Ark|Movie} {Property}
+Ask for the {Rocky|Movie} {Property}
+Ask for the {A Streetcar Named Desire|Movie} {Property}
+Ask for the {The Philadelphia Story|Movie} {Property}
+Ask for the {To Kill a Mockingbird|Movie} {Property}
+Ask for the {An American in Paris|Movie} {Property}
+Ask for the {The Best Years of Our Lives|Movie} {Property}
+Ask for the {My Fair Lady|Movie} {Property}
+Ask for the {A Clockwork Orange|Movie} {Property}
+Ask for the {Doctor Zhivago|Movie} {Property}
+Ask for the {Patton|Movie} {Property}
+Ask for the {Jaws|Movie} {Property}
+Ask for the {Braveheart|Movie} {Property}
+Ask for the {Butch Cassidy and the Sundance Kid|Movie} {Property}
+Ask for the {The Good the Bad and the Ugly|Movie} {Property}
+Ask for the {The Treasure of the Sierra Madre|Movie} {Property}
+Ask for the {The Apartment|Movie} {Property}
+Ask for the {Platoon|Movie} {Property}
+Ask for the {High Noon|Movie} {Property}
+Ask for the {Dances with Wolves|Movie} {Property}
+Ask for the {The Pianist|Movie} {Property}
+Ask for the {Goodfellas|Movie} {Property}
+Ask for the {The Exorcist|Movie} {Property}
+Ask for the {The Deer Hunter|Movie} {Property}
+Ask for the {All Quiet on the Western Front|Movie} {Property}
+Ask for the {Bonnie and Clyde|Movie} {Property}
+Ask for the {The French Connection|Movie} {Property}
+Ask for the {City Lights|Movie} {Property}
+Ask for the {It Happened One Night|Movie} {Property}
+Ask for the {A Place in the Sun|Movie} {Property}
+Ask for the {Midnight Cowboy|Movie} {Property}
+Ask for the {Mr. Smith Goes to Washington|Movie} {Property}
+Ask for the {Rain Man|Movie} {Property}
+Ask for the {Annie Hall|Movie} {Property}
+Ask for the {Tootsie|Movie} {Property}
+Ask for the {Fargo|Movie} {Property}
+Ask for the {Giant|Movie} {Property}
+Ask for the {The Grapes of Wrath|Movie} {Property}
+Ask for the {Good Will Hunting|Movie} {Property}
+Ask for the {Shane|Movie} {Property}
+Ask for the {Terms of Endearment|Movie} {Property}
+Ask for the {The Green Mile|Movie} {Property}
+Ask for the {Close Encounters of the Third Kind|Movie} {Property}
+Ask for the {Nashville|Movie} {Property}
+Ask for the {Network|Movie} {Property}
+Ask for the {The Graduate|Movie} {Property}
+Ask for the {American Graffiti|Movie} {Property}
+Ask for the {Pulp Fiction|Movie} {Property}
+Ask for the {The African Queen|Movie} {Property}
+Ask for the {Stagecoach|Movie} {Property}
+Ask for the {Mutiny on the Bounty|Movie} {Property}
+Ask for the {The Great Dictator|Movie} {Property}
+Ask for the {The Maltese Falcon|Movie} {Property}
+Ask for the {Taxi Driver|Movie} {Property}
+Ask for the {Wuthering Heights|Movie} {Property}
+Ask for the {Double Indemnity|Movie} {Property}
+Ask for the {Rebel Without a Cause|Movie} {Property}
+Ask for the {Rear Window|Movie} {Property}
+Ask for the {The Third Man|Movie} {Property}
+Ask for the {Frankenstein|Movie} {Property}
+Ask for the {North by Northwest|Movie} {Property}
+Ask for the {Yankee Doodle Dandy|Movie} {Property}
+Ask for the {Property} of {The Godfather|Movie}
+Ask for the {Property} of {The Shawshank Redemption|Movie}
+Ask for the {Property} of {Schindler's List|Movie}
+Ask for the {Property} of {Raging Bull|Movie}
+Ask for the {Property} of {Casablanca|Movie}
+Ask for the {Property} of {One Flew Over the Cuckoo's Nest|Movie}
+Ask for the {Property} of {Gone with the Wind|Movie}
+Ask for the {Property} of {Citizen Kane|Movie}
+Ask for the {Property} of {The Wizard of Oz|Movie}
+Ask for the {Property} of {Lawrence of Arabia|Movie}
+Ask for the {Property} of {Sunset Blvd.|Movie}
+Ask for the {Property} of {Psycho|Movie}
+Ask for the {Property} of {The Godfather Part II|Movie}
+Ask for the {Property} of {On the Waterfront|Movie}
+Ask for the {Property} of {Vertigo|Movie}
+Ask for the {Property} of {Forrest Gump|Movie}
+Ask for the {Property} of {The Sound of Music|Movie}
+Ask for the {Property} of {West Side Story|Movie}
+Ask for the {Property} of {Star Wars|Movie}
+Ask for the {Property} of {E.T. the Extra-Terrestrial|Movie}
+Ask for the {Property} of {two zero zero one  A Space Odyssey|Movie}
+Ask for the {Property} of {The Silence of the Lambs|Movie}
+Ask for the {Property} of {Chinatown|Movie}
+Ask for the {Property} of {The Bridge on the River Kwai|Movie}
+Ask for the {Property} of {Singin' in the Rain|Movie}
+Ask for the {Property} of {It's a Wonderful Life|Movie}
+Ask for the {Property} of {Some Like It Hot|Movie}
+Ask for the {Property} of {one two  Angry Men|Movie}
+Ask for the {Property} of {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask for the {Property} of {Amadeus|Movie}
+Ask for the {Property} of {Ben-Hur|Movie}
+Ask for the {Property} of {Apocalypse Now|Movie}
+Ask for the {Property} of {The Lord of the Rings The Return of the King|Movie}
+Ask for the {Property} of {Gladiator|Movie}
+Ask for the {Property} of {From Here to Eternity|Movie}
+Ask for the {Property} of {Titanic|Movie}
+Ask for the {Property} of {Saving Private Ryan|Movie}
+Ask for the {Property} of {Unforgiven|Movie}
+Ask for the {Property} of {Raiders of the Lost Ark|Movie}
+Ask for the {Property} of {Rocky|Movie}
+Ask for the {Property} of {A Streetcar Named Desire|Movie}
+Ask for the {Property} of {The Philadelphia Story|Movie}
+Ask for the {Property} of {To Kill a Mockingbird|Movie}
+Ask for the {Property} of {An American in Paris|Movie}
+Ask for the {Property} of {The Best Years of Our Lives|Movie}
+Ask for the {Property} of {My Fair Lady|Movie}
+Ask for the {Property} of {A Clockwork Orange|Movie}
+Ask for the {Property} of {Doctor Zhivago|Movie}
+Ask for the {Property} of {Patton|Movie}
+Ask for the {Property} of {Jaws|Movie}
+Ask for the {Property} of {Braveheart|Movie}
+Ask for the {Property} of {Butch Cassidy and the Sundance Kid|Movie}
+Ask for the {Property} of {The Good the Bad and the Ugly|Movie}
+Ask for the {Property} of {The Treasure of the Sierra Madre|Movie}
+Ask for the {Property} of {The Apartment|Movie}
+Ask for the {Property} of {Platoon|Movie}
+Ask for the {Property} of {High Noon|Movie}
+Ask for the {Property} of {Dances with Wolves|Movie}
+Ask for the {Property} of {The Pianist|Movie}
+Ask for the {Property} of {Goodfellas|Movie}
+Ask for the {Property} of {The Exorcist|Movie}
+Ask for the {Property} of {The Deer Hunter|Movie}
+Ask for the {Property} of {All Quiet on the Western Front|Movie}
+Ask for the {Property} of {Bonnie and Clyde|Movie}
+Ask for the {Property} of {The French Connection|Movie}
+Ask for the {Property} of {City Lights|Movie}
+Ask for the {Property} of {It Happened One Night|Movie}
+Ask for the {Property} of {A Place in the Sun|Movie}
+Ask for the {Property} of {Midnight Cowboy|Movie}
+Ask for the {Property} of {Mr. Smith Goes to Washington|Movie}
+Ask for the {Property} of {Rain Man|Movie}
+Ask for the {Property} of {Annie Hall|Movie}
+Ask for the {Property} of {Tootsie|Movie}
+Ask for the {Property} of {Fargo|Movie}
+Ask for the {Property} of {Giant|Movie}
+Ask for the {Property} of {The Grapes of Wrath|Movie}
+Ask for the {Property} of {Good Will Hunting|Movie}
+Ask for the {Property} of {Shane|Movie}
+Ask for the {Property} of {Terms of Endearment|Movie}
+Ask for the {Property} of {The Green Mile|Movie}
+Ask for the {Property} of {Close Encounters of the Third Kind|Movie}
+Ask for the {Property} of {Nashville|Movie}
+Ask for the {Property} of {Network|Movie}
+Ask for the {Property} of {The Graduate|Movie}
+Ask for the {Property} of {American Graffiti|Movie}
+Ask for the {Property} of {Pulp Fiction|Movie}
+Ask for the {Property} of {The African Queen|Movie}
+Ask for the {Property} of {Stagecoach|Movie}
+Ask for the {Property} of {Mutiny on the Bounty|Movie}
+Ask for the {Property} of {The Great Dictator|Movie}
+Ask for the {Property} of {The Maltese Falcon|Movie}
+Ask for the {Property} of {Taxi Driver|Movie}
+Ask for the {Property} of {Wuthering Heights|Movie}
+Ask for the {Property} of {Double Indemnity|Movie}
+Ask for the {Property} of {Rebel Without a Cause|Movie}
+Ask for the {Property} of {Rear Window|Movie}
+Ask for the {Property} of {The Third Man|Movie}
+Ask for the {Property} of {Frankenstein|Movie}
+Ask for the {Property} of {North by Northwest|Movie}
+Ask for the {Property} of {Yankee Doodle Dandy|Movie}
+Ask for the {Property} for {The Godfather|Movie}
+Ask for the {Property} for {The Shawshank Redemption|Movie}
+Ask for the {Property} for {Schindler's List|Movie}
+Ask for the {Property} for {Raging Bull|Movie}
+Ask for the {Property} for {Casablanca|Movie}
+Ask for the {Property} for {One Flew Over the Cuckoo's Nest|Movie}
+Ask for the {Property} for {Gone with the Wind|Movie}
+Ask for the {Property} for {Citizen Kane|Movie}
+Ask for the {Property} for {The Wizard of Oz|Movie}
+Ask for the {Property} for {Lawrence of Arabia|Movie}
+Ask for the {Property} for {Sunset Blvd.|Movie}
+Ask for the {Property} for {Psycho|Movie}
+Ask for the {Property} for {The Godfather Part II|Movie}
+Ask for the {Property} for {On the Waterfront|Movie}
+Ask for the {Property} for {Vertigo|Movie}
+Ask for the {Property} for {Forrest Gump|Movie}
+Ask for the {Property} for {The Sound of Music|Movie}
+Ask for the {Property} for {West Side Story|Movie}
+Ask for the {Property} for {Star Wars|Movie}
+Ask for the {Property} for {E.T. the Extra-Terrestrial|Movie}
+Ask for the {Property} for {two zero zero one  A Space Odyssey|Movie}
+Ask for the {Property} for {The Silence of the Lambs|Movie}
+Ask for the {Property} for {Chinatown|Movie}
+Ask for the {Property} for {The Bridge on the River Kwai|Movie}
+Ask for the {Property} for {Singin' in the Rain|Movie}
+Ask for the {Property} for {It's a Wonderful Life|Movie}
+Ask for the {Property} for {Some Like It Hot|Movie}
+Ask for the {Property} for {one two  Angry Men|Movie}
+Ask for the {Property} for {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask for the {Property} for {Amadeus|Movie}
+Ask for the {Property} for {Ben-Hur|Movie}
+Ask for the {Property} for {Apocalypse Now|Movie}
+Ask for the {Property} for {The Lord of the Rings The Return of the King|Movie}
+Ask for the {Property} for {Gladiator|Movie}
+Ask for the {Property} for {From Here to Eternity|Movie}
+Ask for the {Property} for {Titanic|Movie}
+Ask for the {Property} for {Saving Private Ryan|Movie}
+Ask for the {Property} for {Unforgiven|Movie}
+Ask for the {Property} for {Raiders of the Lost Ark|Movie}
+Ask for the {Property} for {Rocky|Movie}
+Ask for the {Property} for {A Streetcar Named Desire|Movie}
+Ask for the {Property} for {The Philadelphia Story|Movie}
+Ask for the {Property} for {To Kill a Mockingbird|Movie}
+Ask for the {Property} for {An American in Paris|Movie}
+Ask for the {Property} for {The Best Years of Our Lives|Movie}
+Ask for the {Property} for {My Fair Lady|Movie}
+Ask for the {Property} for {A Clockwork Orange|Movie}
+Ask for the {Property} for {Doctor Zhivago|Movie}
+Ask for the {Property} for {Patton|Movie}
+Ask for the {Property} for {Jaws|Movie}
+Ask for the {Property} for {Braveheart|Movie}
+Ask for the {Property} for {Butch Cassidy and the Sundance Kid|Movie}
+Ask for the {Property} for {The Good the Bad and the Ugly|Movie}
+Ask for the {Property} for {The Treasure of the Sierra Madre|Movie}
+Ask for the {Property} for {The Apartment|Movie}
+Ask for the {Property} for {Platoon|Movie}
+Ask for the {Property} for {High Noon|Movie}
+Ask for the {Property} for {Dances with Wolves|Movie}
+Ask for the {Property} for {The Pianist|Movie}
+Ask for the {Property} for {Goodfellas|Movie}
+Ask for the {Property} for {The Exorcist|Movie}
+Ask for the {Property} for {The Deer Hunter|Movie}
+Ask for the {Property} for {All Quiet on the Western Front|Movie}
+Ask for the {Property} for {Bonnie and Clyde|Movie}
+Ask for the {Property} for {The French Connection|Movie}
+Ask for the {Property} for {City Lights|Movie}
+Ask for the {Property} for {It Happened One Night|Movie}
+Ask for the {Property} for {A Place in the Sun|Movie}
+Ask for the {Property} for {Midnight Cowboy|Movie}
+Ask for the {Property} for {Mr. Smith Goes to Washington|Movie}
+Ask for the {Property} for {Rain Man|Movie}
+Ask for the {Property} for {Annie Hall|Movie}
+Ask for the {Property} for {Tootsie|Movie}
+Ask for the {Property} for {Fargo|Movie}
+Ask for the {Property} for {Giant|Movie}
+Ask for the {Property} for {The Grapes of Wrath|Movie}
+Ask for the {Property} for {Good Will Hunting|Movie}
+Ask for the {Property} for {Shane|Movie}
+Ask for the {Property} for {Terms of Endearment|Movie}
+Ask for the {Property} for {The Green Mile|Movie}
+Ask for the {Property} for {Close Encounters of the Third Kind|Movie}
+Ask for the {Property} for {Nashville|Movie}
+Ask for the {Property} for {Network|Movie}
+Ask for the {Property} for {The Graduate|Movie}
+Ask for the {Property} for {American Graffiti|Movie}
+Ask for the {Property} for {Pulp Fiction|Movie}
+Ask for the {Property} for {The African Queen|Movie}
+Ask for the {Property} for {Stagecoach|Movie}
+Ask for the {Property} for {Mutiny on the Bounty|Movie}
+Ask for the {Property} for {The Great Dictator|Movie}
+Ask for the {Property} for {The Maltese Falcon|Movie}
+Ask for the {Property} for {Taxi Driver|Movie}
+Ask for the {Property} for {Wuthering Heights|Movie}
+Ask for the {Property} for {Double Indemnity|Movie}
+Ask for the {Property} for {Rebel Without a Cause|Movie}
+Ask for the {Property} for {Rear Window|Movie}
+Ask for the {Property} for {The Third Man|Movie}
+Ask for the {Property} for {Frankenstein|Movie}
+Ask for the {Property} for {North by Northwest|Movie}
+Ask for the {Property} for {Yankee Doodle Dandy|Movie}
+Ask to give me {Property} of {The Godfather|Movie}
+Ask to give me {Property} of {The Shawshank Redemption|Movie}
+Ask to give me {Property} of {Schindler's List|Movie}
+Ask to give me {Property} of {Raging Bull|Movie}
+Ask to give me {Property} of {Casablanca|Movie}
+Ask to give me {Property} of {One Flew Over the Cuckoo's Nest|Movie}
+Ask to give me {Property} of {Gone with the Wind|Movie}
+Ask to give me {Property} of {Citizen Kane|Movie}
+Ask to give me {Property} of {The Wizard of Oz|Movie}
+Ask to give me {Property} of {Lawrence of Arabia|Movie}
+Ask to give me {Property} of {Sunset Blvd.|Movie}
+Ask to give me {Property} of {Psycho|Movie}
+Ask to give me {Property} of {The Godfather Part II|Movie}
+Ask to give me {Property} of {On the Waterfront|Movie}
+Ask to give me {Property} of {Vertigo|Movie}
+Ask to give me {Property} of {Forrest Gump|Movie}
+Ask to give me {Property} of {The Sound of Music|Movie}
+Ask to give me {Property} of {West Side Story|Movie}
+Ask to give me {Property} of {Star Wars|Movie}
+Ask to give me {Property} of {E.T. the Extra-Terrestrial|Movie}
+Ask to give me {Property} of {two zero zero one  A Space Odyssey|Movie}
+Ask to give me {Property} of {The Silence of the Lambs|Movie}
+Ask to give me {Property} of {Chinatown|Movie}
+Ask to give me {Property} of {The Bridge on the River Kwai|Movie}
+Ask to give me {Property} of {Singin' in the Rain|Movie}
+Ask to give me {Property} of {It's a Wonderful Life|Movie}
+Ask to give me {Property} of {Some Like It Hot|Movie}
+Ask to give me {Property} of {one two  Angry Men|Movie}
+Ask to give me {Property} of {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask to give me {Property} of {Amadeus|Movie}
+Ask to give me {Property} of {Ben-Hur|Movie}
+Ask to give me {Property} of {Apocalypse Now|Movie}
+Ask to give me {Property} of {The Lord of the Rings The Return of the King|Movie}
+Ask to give me {Property} of {Gladiator|Movie}
+Ask to give me {Property} of {From Here to Eternity|Movie}
+Ask to give me {Property} of {Titanic|Movie}
+Ask to give me {Property} of {Saving Private Ryan|Movie}
+Ask to give me {Property} of {Unforgiven|Movie}
+Ask to give me {Property} of {Raiders of the Lost Ark|Movie}
+Ask to give me {Property} of {Rocky|Movie}
+Ask to give me {Property} of {A Streetcar Named Desire|Movie}
+Ask to give me {Property} of {The Philadelphia Story|Movie}
+Ask to give me {Property} of {To Kill a Mockingbird|Movie}
+Ask to give me {Property} of {An American in Paris|Movie}
+Ask to give me {Property} of {The Best Years of Our Lives|Movie}
+Ask to give me {Property} of {My Fair Lady|Movie}
+Ask to give me {Property} of {A Clockwork Orange|Movie}
+Ask to give me {Property} of {Doctor Zhivago|Movie}
+Ask to give me {Property} of {Patton|Movie}
+Ask to give me {Property} of {Jaws|Movie}
+Ask to give me {Property} of {Braveheart|Movie}
+Ask to give me {Property} of {Butch Cassidy and the Sundance Kid|Movie}
+Ask to give me {Property} of {The Good the Bad and the Ugly|Movie}
+Ask to give me {Property} of {The Treasure of the Sierra Madre|Movie}
+Ask to give me {Property} of {The Apartment|Movie}
+Ask to give me {Property} of {Platoon|Movie}
+Ask to give me {Property} of {High Noon|Movie}
+Ask to give me {Property} of {Dances with Wolves|Movie}
+Ask to give me {Property} of {The Pianist|Movie}
+Ask to give me {Property} of {Goodfellas|Movie}
+Ask to give me {Property} of {The Exorcist|Movie}
+Ask to give me {Property} of {The Deer Hunter|Movie}
+Ask to give me {Property} of {All Quiet on the Western Front|Movie}
+Ask to give me {Property} of {Bonnie and Clyde|Movie}
+Ask to give me {Property} of {The French Connection|Movie}
+Ask to give me {Property} of {City Lights|Movie}
+Ask to give me {Property} of {It Happened One Night|Movie}
+Ask to give me {Property} of {A Place in the Sun|Movie}
+Ask to give me {Property} of {Midnight Cowboy|Movie}
+Ask to give me {Property} of {Mr. Smith Goes to Washington|Movie}
+Ask to give me {Property} of {Rain Man|Movie}
+Ask to give me {Property} of {Annie Hall|Movie}
+Ask to give me {Property} of {Tootsie|Movie}
+Ask to give me {Property} of {Fargo|Movie}
+Ask to give me {Property} of {Giant|Movie}
+Ask to give me {Property} of {The Grapes of Wrath|Movie}
+Ask to give me {Property} of {Good Will Hunting|Movie}
+Ask to give me {Property} of {Shane|Movie}
+Ask to give me {Property} of {Terms of Endearment|Movie}
+Ask to give me {Property} of {The Green Mile|Movie}
+Ask to give me {Property} of {Close Encounters of the Third Kind|Movie}
+Ask to give me {Property} of {Nashville|Movie}
+Ask to give me {Property} of {Network|Movie}
+Ask to give me {Property} of {The Graduate|Movie}
+Ask to give me {Property} of {American Graffiti|Movie}
+Ask to give me {Property} of {Pulp Fiction|Movie}
+Ask to give me {Property} of {The African Queen|Movie}
+Ask to give me {Property} of {Stagecoach|Movie}
+Ask to give me {Property} of {Mutiny on the Bounty|Movie}
+Ask to give me {Property} of {The Great Dictator|Movie}
+Ask to give me {Property} of {The Maltese Falcon|Movie}
+Ask to give me {Property} of {Taxi Driver|Movie}
+Ask to give me {Property} of {Wuthering Heights|Movie}
+Ask to give me {Property} of {Double Indemnity|Movie}
+Ask to give me {Property} of {Rebel Without a Cause|Movie}
+Ask to give me {Property} of {Rear Window|Movie}
+Ask to give me {Property} of {The Third Man|Movie}
+Ask to give me {Property} of {Frankenstein|Movie}
+Ask to give me {Property} of {North by Northwest|Movie}
+Ask to give me {Property} of {Yankee Doodle Dandy|Movie}
+Ask to give me {Property} for {The Godfather|Movie}
+Ask to give me {Property} for {The Shawshank Redemption|Movie}
+Ask to give me {Property} for {Schindler's List|Movie}
+Ask to give me {Property} for {Raging Bull|Movie}
+Ask to give me {Property} for {Casablanca|Movie}
+Ask to give me {Property} for {One Flew Over the Cuckoo's Nest|Movie}
+Ask to give me {Property} for {Gone with the Wind|Movie}
+Ask to give me {Property} for {Citizen Kane|Movie}
+Ask to give me {Property} for {The Wizard of Oz|Movie}
+Ask to give me {Property} for {Lawrence of Arabia|Movie}
+Ask to give me {Property} for {Sunset Blvd.|Movie}
+Ask to give me {Property} for {Psycho|Movie}
+Ask to give me {Property} for {The Godfather Part II|Movie}
+Ask to give me {Property} for {On the Waterfront|Movie}
+Ask to give me {Property} for {Vertigo|Movie}
+Ask to give me {Property} for {Forrest Gump|Movie}
+Ask to give me {Property} for {The Sound of Music|Movie}
+Ask to give me {Property} for {West Side Story|Movie}
+Ask to give me {Property} for {Star Wars|Movie}
+Ask to give me {Property} for {E.T. the Extra-Terrestrial|Movie}
+Ask to give me {Property} for {two zero zero one  A Space Odyssey|Movie}
+Ask to give me {Property} for {The Silence of the Lambs|Movie}
+Ask to give me {Property} for {Chinatown|Movie}
+Ask to give me {Property} for {The Bridge on the River Kwai|Movie}
+Ask to give me {Property} for {Singin' in the Rain|Movie}
+Ask to give me {Property} for {It's a Wonderful Life|Movie}
+Ask to give me {Property} for {Some Like It Hot|Movie}
+Ask to give me {Property} for {one two  Angry Men|Movie}
+Ask to give me {Property} for {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask to give me {Property} for {Amadeus|Movie}
+Ask to give me {Property} for {Ben-Hur|Movie}
+Ask to give me {Property} for {Apocalypse Now|Movie}
+Ask to give me {Property} for {The Lord of the Rings The Return of the King|Movie}
+Ask to give me {Property} for {Gladiator|Movie}
+Ask to give me {Property} for {From Here to Eternity|Movie}
+Ask to give me {Property} for {Titanic|Movie}
+Ask to give me {Property} for {Saving Private Ryan|Movie}
+Ask to give me {Property} for {Unforgiven|Movie}
+Ask to give me {Property} for {Raiders of the Lost Ark|Movie}
+Ask to give me {Property} for {Rocky|Movie}
+Ask to give me {Property} for {A Streetcar Named Desire|Movie}
+Ask to give me {Property} for {The Philadelphia Story|Movie}
+Ask to give me {Property} for {To Kill a Mockingbird|Movie}
+Ask to give me {Property} for {An American in Paris|Movie}
+Ask to give me {Property} for {The Best Years of Our Lives|Movie}
+Ask to give me {Property} for {My Fair Lady|Movie}
+Ask to give me {Property} for {A Clockwork Orange|Movie}
+Ask to give me {Property} for {Doctor Zhivago|Movie}
+Ask to give me {Property} for {Patton|Movie}
+Ask to give me {Property} for {Jaws|Movie}
+Ask to give me {Property} for {Braveheart|Movie}
+Ask to give me {Property} for {Butch Cassidy and the Sundance Kid|Movie}
+Ask to give me {Property} for {The Good the Bad and the Ugly|Movie}
+Ask to give me {Property} for {The Treasure of the Sierra Madre|Movie}
+Ask to give me {Property} for {The Apartment|Movie}
+Ask to give me {Property} for {Platoon|Movie}
+Ask to give me {Property} for {High Noon|Movie}
+Ask to give me {Property} for {Dances with Wolves|Movie}
+Ask to give me {Property} for {The Pianist|Movie}
+Ask to give me {Property} for {Goodfellas|Movie}
+Ask to give me {Property} for {The Exorcist|Movie}
+Ask to give me {Property} for {The Deer Hunter|Movie}
+Ask to give me {Property} for {All Quiet on the Western Front|Movie}
+Ask to give me {Property} for {Bonnie and Clyde|Movie}
+Ask to give me {Property} for {The French Connection|Movie}
+Ask to give me {Property} for {City Lights|Movie}
+Ask to give me {Property} for {It Happened One Night|Movie}
+Ask to give me {Property} for {A Place in the Sun|Movie}
+Ask to give me {Property} for {Midnight Cowboy|Movie}
+Ask to give me {Property} for {Mr. Smith Goes to Washington|Movie}
+Ask to give me {Property} for {Rain Man|Movie}
+Ask to give me {Property} for {Annie Hall|Movie}
+Ask to give me {Property} for {Tootsie|Movie}
+Ask to give me {Property} for {Fargo|Movie}
+Ask to give me {Property} for {Giant|Movie}
+Ask to give me {Property} for {The Grapes of Wrath|Movie}
+Ask to give me {Property} for {Good Will Hunting|Movie}
+Ask to give me {Property} for {Shane|Movie}
+Ask to give me {Property} for {Terms of Endearment|Movie}
+Ask to give me {Property} for {The Green Mile|Movie}
+Ask to give me {Property} for {Close Encounters of the Third Kind|Movie}
+Ask to give me {Property} for {Nashville|Movie}
+Ask to give me {Property} for {Network|Movie}
+Ask to give me {Property} for {The Graduate|Movie}
+Ask to give me {Property} for {American Graffiti|Movie}
+Ask to give me {Property} for {Pulp Fiction|Movie}
+Ask to give me {Property} for {The African Queen|Movie}
+Ask to give me {Property} for {Stagecoach|Movie}
+Ask to give me {Property} for {Mutiny on the Bounty|Movie}
+Ask to give me {Property} for {The Great Dictator|Movie}
+Ask to give me {Property} for {The Maltese Falcon|Movie}
+Ask to give me {Property} for {Taxi Driver|Movie}
+Ask to give me {Property} for {Wuthering Heights|Movie}
+Ask to give me {Property} for {Double Indemnity|Movie}
+Ask to give me {Property} for {Rebel Without a Cause|Movie}
+Ask to give me {Property} for {Rear Window|Movie}
+Ask to give me {Property} for {The Third Man|Movie}
+Ask to give me {Property} for {Frankenstein|Movie}
+Ask to give me {Property} for {North by Northwest|Movie}
+Ask to give me {Property} for {Yankee Doodle Dandy|Movie}
+Ask to tell me {Property} of {The Godfather|Movie}
+Ask to tell me {Property} of {The Shawshank Redemption|Movie}
+Ask to tell me {Property} of {Schindler's List|Movie}
+Ask to tell me {Property} of {Raging Bull|Movie}
+Ask to tell me {Property} of {Casablanca|Movie}
+Ask to tell me {Property} of {One Flew Over the Cuckoo's Nest|Movie}
+Ask to tell me {Property} of {Gone with the Wind|Movie}
+Ask to tell me {Property} of {Citizen Kane|Movie}
+Ask to tell me {Property} of {The Wizard of Oz|Movie}
+Ask to tell me {Property} of {Lawrence of Arabia|Movie}
+Ask to tell me {Property} of {Sunset Blvd.|Movie}
+Ask to tell me {Property} of {Psycho|Movie}
+Ask to tell me {Property} of {The Godfather Part II|Movie}
+Ask to tell me {Property} of {On the Waterfront|Movie}
+Ask to tell me {Property} of {Vertigo|Movie}
+Ask to tell me {Property} of {Forrest Gump|Movie}
+Ask to tell me {Property} of {The Sound of Music|Movie}
+Ask to tell me {Property} of {West Side Story|Movie}
+Ask to tell me {Property} of {Star Wars|Movie}
+Ask to tell me {Property} of {E.T. the Extra-Terrestrial|Movie}
+Ask to tell me {Property} of {two zero zero one  A Space Odyssey|Movie}
+Ask to tell me {Property} of {The Silence of the Lambs|Movie}
+Ask to tell me {Property} of {Chinatown|Movie}
+Ask to tell me {Property} of {The Bridge on the River Kwai|Movie}
+Ask to tell me {Property} of {Singin' in the Rain|Movie}
+Ask to tell me {Property} of {It's a Wonderful Life|Movie}
+Ask to tell me {Property} of {Some Like It Hot|Movie}
+Ask to tell me {Property} of {one two  Angry Men|Movie}
+Ask to tell me {Property} of {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask to tell me {Property} of {Amadeus|Movie}
+Ask to tell me {Property} of {Ben-Hur|Movie}
+Ask to tell me {Property} of {Apocalypse Now|Movie}
+Ask to tell me {Property} of {The Lord of the Rings The Return of the King|Movie}
+Ask to tell me {Property} of {Gladiator|Movie}
+Ask to tell me {Property} of {From Here to Eternity|Movie}
+Ask to tell me {Property} of {Titanic|Movie}
+Ask to tell me {Property} of {Saving Private Ryan|Movie}
+Ask to tell me {Property} of {Unforgiven|Movie}
+Ask to tell me {Property} of {Raiders of the Lost Ark|Movie}
+Ask to tell me {Property} of {Rocky|Movie}
+Ask to tell me {Property} of {A Streetcar Named Desire|Movie}
+Ask to tell me {Property} of {The Philadelphia Story|Movie}
+Ask to tell me {Property} of {To Kill a Mockingbird|Movie}
+Ask to tell me {Property} of {An American in Paris|Movie}
+Ask to tell me {Property} of {The Best Years of Our Lives|Movie}
+Ask to tell me {Property} of {My Fair Lady|Movie}
+Ask to tell me {Property} of {A Clockwork Orange|Movie}
+Ask to tell me {Property} of {Doctor Zhivago|Movie}
+Ask to tell me {Property} of {Patton|Movie}
+Ask to tell me {Property} of {Jaws|Movie}
+Ask to tell me {Property} of {Braveheart|Movie}
+Ask to tell me {Property} of {Butch Cassidy and the Sundance Kid|Movie}
+Ask to tell me {Property} of {The Good the Bad and the Ugly|Movie}
+Ask to tell me {Property} of {The Treasure of the Sierra Madre|Movie}
+Ask to tell me {Property} of {The Apartment|Movie}
+Ask to tell me {Property} of {Platoon|Movie}
+Ask to tell me {Property} of {High Noon|Movie}
+Ask to tell me {Property} of {Dances with Wolves|Movie}
+Ask to tell me {Property} of {The Pianist|Movie}
+Ask to tell me {Property} of {Goodfellas|Movie}
+Ask to tell me {Property} of {The Exorcist|Movie}
+Ask to tell me {Property} of {The Deer Hunter|Movie}
+Ask to tell me {Property} of {All Quiet on the Western Front|Movie}
+Ask to tell me {Property} of {Bonnie and Clyde|Movie}
+Ask to tell me {Property} of {The French Connection|Movie}
+Ask to tell me {Property} of {City Lights|Movie}
+Ask to tell me {Property} of {It Happened One Night|Movie}
+Ask to tell me {Property} of {A Place in the Sun|Movie}
+Ask to tell me {Property} of {Midnight Cowboy|Movie}
+Ask to tell me {Property} of {Mr. Smith Goes to Washington|Movie}
+Ask to tell me {Property} of {Rain Man|Movie}
+Ask to tell me {Property} of {Annie Hall|Movie}
+Ask to tell me {Property} of {Tootsie|Movie}
+Ask to tell me {Property} of {Fargo|Movie}
+Ask to tell me {Property} of {Giant|Movie}
+Ask to tell me {Property} of {The Grapes of Wrath|Movie}
+Ask to tell me {Property} of {Good Will Hunting|Movie}
+Ask to tell me {Property} of {Shane|Movie}
+Ask to tell me {Property} of {Terms of Endearment|Movie}
+Ask to tell me {Property} of {The Green Mile|Movie}
+Ask to tell me {Property} of {Close Encounters of the Third Kind|Movie}
+Ask to tell me {Property} of {Nashville|Movie}
+Ask to tell me {Property} of {Network|Movie}
+Ask to tell me {Property} of {The Graduate|Movie}
+Ask to tell me {Property} of {American Graffiti|Movie}
+Ask to tell me {Property} of {Pulp Fiction|Movie}
+Ask to tell me {Property} of {The African Queen|Movie}
+Ask to tell me {Property} of {Stagecoach|Movie}
+Ask to tell me {Property} of {Mutiny on the Bounty|Movie}
+Ask to tell me {Property} of {The Great Dictator|Movie}
+Ask to tell me {Property} of {The Maltese Falcon|Movie}
+Ask to tell me {Property} of {Taxi Driver|Movie}
+Ask to tell me {Property} of {Wuthering Heights|Movie}
+Ask to tell me {Property} of {Double Indemnity|Movie}
+Ask to tell me {Property} of {Rebel Without a Cause|Movie}
+Ask to tell me {Property} of {Rear Window|Movie}
+Ask to tell me {Property} of {The Third Man|Movie}
+Ask to tell me {Property} of {Frankenstein|Movie}
+Ask to tell me {Property} of {North by Northwest|Movie}
+Ask to tell me {Property} of {Yankee Doodle Dandy|Movie}
+Ask to tell me {Property} for {The Godfather|Movie}
+Ask to tell me {Property} for {The Shawshank Redemption|Movie}
+Ask to tell me {Property} for {Schindler's List|Movie}
+Ask to tell me {Property} for {Raging Bull|Movie}
+Ask to tell me {Property} for {Casablanca|Movie}
+Ask to tell me {Property} for {One Flew Over the Cuckoo's Nest|Movie}
+Ask to tell me {Property} for {Gone with the Wind|Movie}
+Ask to tell me {Property} for {Citizen Kane|Movie}
+Ask to tell me {Property} for {The Wizard of Oz|Movie}
+Ask to tell me {Property} for {Lawrence of Arabia|Movie}
+Ask to tell me {Property} for {Sunset Blvd.|Movie}
+Ask to tell me {Property} for {Psycho|Movie}
+Ask to tell me {Property} for {The Godfather Part II|Movie}
+Ask to tell me {Property} for {On the Waterfront|Movie}
+Ask to tell me {Property} for {Vertigo|Movie}
+Ask to tell me {Property} for {Forrest Gump|Movie}
+Ask to tell me {Property} for {The Sound of Music|Movie}
+Ask to tell me {Property} for {West Side Story|Movie}
+Ask to tell me {Property} for {Star Wars|Movie}
+Ask to tell me {Property} for {E.T. the Extra-Terrestrial|Movie}
+Ask to tell me {Property} for {two zero zero one  A Space Odyssey|Movie}
+Ask to tell me {Property} for {The Silence of the Lambs|Movie}
+Ask to tell me {Property} for {Chinatown|Movie}
+Ask to tell me {Property} for {The Bridge on the River Kwai|Movie}
+Ask to tell me {Property} for {Singin' in the Rain|Movie}
+Ask to tell me {Property} for {It's a Wonderful Life|Movie}
+Ask to tell me {Property} for {Some Like It Hot|Movie}
+Ask to tell me {Property} for {one two  Angry Men|Movie}
+Ask to tell me {Property} for {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask to tell me {Property} for {Amadeus|Movie}
+Ask to tell me {Property} for {Ben-Hur|Movie}
+Ask to tell me {Property} for {Apocalypse Now|Movie}
+Ask to tell me {Property} for {The Lord of the Rings The Return of the King|Movie}
+Ask to tell me {Property} for {Gladiator|Movie}
+Ask to tell me {Property} for {From Here to Eternity|Movie}
+Ask to tell me {Property} for {Titanic|Movie}
+Ask to tell me {Property} for {Saving Private Ryan|Movie}
+Ask to tell me {Property} for {Unforgiven|Movie}
+Ask to tell me {Property} for {Raiders of the Lost Ark|Movie}
+Ask to tell me {Property} for {Rocky|Movie}
+Ask to tell me {Property} for {A Streetcar Named Desire|Movie}
+Ask to tell me {Property} for {The Philadelphia Story|Movie}
+Ask to tell me {Property} for {To Kill a Mockingbird|Movie}
+Ask to tell me {Property} for {An American in Paris|Movie}
+Ask to tell me {Property} for {The Best Years of Our Lives|Movie}
+Ask to tell me {Property} for {My Fair Lady|Movie}
+Ask to tell me {Property} for {A Clockwork Orange|Movie}
+Ask to tell me {Property} for {Doctor Zhivago|Movie}
+Ask to tell me {Property} for {Patton|Movie}
+Ask to tell me {Property} for {Jaws|Movie}
+Ask to tell me {Property} for {Braveheart|Movie}
+Ask to tell me {Property} for {Butch Cassidy and the Sundance Kid|Movie}
+Ask to tell me {Property} for {The Good the Bad and the Ugly|Movie}
+Ask to tell me {Property} for {The Treasure of the Sierra Madre|Movie}
+Ask to tell me {Property} for {The Apartment|Movie}
+Ask to tell me {Property} for {Platoon|Movie}
+Ask to tell me {Property} for {High Noon|Movie}
+Ask to tell me {Property} for {Dances with Wolves|Movie}
+Ask to tell me {Property} for {The Pianist|Movie}
+Ask to tell me {Property} for {Goodfellas|Movie}
+Ask to tell me {Property} for {The Exorcist|Movie}
+Ask to tell me {Property} for {The Deer Hunter|Movie}
+Ask to tell me {Property} for {All Quiet on the Western Front|Movie}
+Ask to tell me {Property} for {Bonnie and Clyde|Movie}
+Ask to tell me {Property} for {The French Connection|Movie}
+Ask to tell me {Property} for {City Lights|Movie}
+Ask to tell me {Property} for {It Happened One Night|Movie}
+Ask to tell me {Property} for {A Place in the Sun|Movie}
+Ask to tell me {Property} for {Midnight Cowboy|Movie}
+Ask to tell me {Property} for {Mr. Smith Goes to Washington|Movie}
+Ask to tell me {Property} for {Rain Man|Movie}
+Ask to tell me {Property} for {Annie Hall|Movie}
+Ask to tell me {Property} for {Tootsie|Movie}
+Ask to tell me {Property} for {Fargo|Movie}
+Ask to tell me {Property} for {Giant|Movie}
+Ask to tell me {Property} for {The Grapes of Wrath|Movie}
+Ask to tell me {Property} for {Good Will Hunting|Movie}
+Ask to tell me {Property} for {Shane|Movie}
+Ask to tell me {Property} for {Terms of Endearment|Movie}
+Ask to tell me {Property} for {The Green Mile|Movie}
+Ask to tell me {Property} for {Close Encounters of the Third Kind|Movie}
+Ask to tell me {Property} for {Nashville|Movie}
+Ask to tell me {Property} for {Network|Movie}
+Ask to tell me {Property} for {The Graduate|Movie}
+Ask to tell me {Property} for {American Graffiti|Movie}
+Ask to tell me {Property} for {Pulp Fiction|Movie}
+Ask to tell me {Property} for {The African Queen|Movie}
+Ask to tell me {Property} for {Stagecoach|Movie}
+Ask to tell me {Property} for {Mutiny on the Bounty|Movie}
+Ask to tell me {Property} for {The Great Dictator|Movie}
+Ask to tell me {Property} for {The Maltese Falcon|Movie}
+Ask to tell me {Property} for {Taxi Driver|Movie}
+Ask to tell me {Property} for {Wuthering Heights|Movie}
+Ask to tell me {Property} for {Double Indemnity|Movie}
+Ask to tell me {Property} for {Rebel Without a Cause|Movie}
+Ask to tell me {Property} for {Rear Window|Movie}
+Ask to tell me {Property} for {The Third Man|Movie}
+Ask to tell me {Property} for {Frankenstein|Movie}
+Ask to tell me {Property} for {North by Northwest|Movie}
+Ask to tell me {Property} for {Yankee Doodle Dandy|Movie}
+Ask to give me the {Property} of {The Godfather|Movie}
+Ask to give me the {Property} of {The Shawshank Redemption|Movie}
+Ask to give me the {Property} of {Schindler's List|Movie}
+Ask to give me the {Property} of {Raging Bull|Movie}
+Ask to give me the {Property} of {Casablanca|Movie}
+Ask to give me the {Property} of {One Flew Over the Cuckoo's Nest|Movie}
+Ask to give me the {Property} of {Gone with the Wind|Movie}
+Ask to give me the {Property} of {Citizen Kane|Movie}
+Ask to give me the {Property} of {The Wizard of Oz|Movie}
+Ask to give me the {Property} of {Lawrence of Arabia|Movie}
+Ask to give me the {Property} of {Sunset Blvd.|Movie}
+Ask to give me the {Property} of {Psycho|Movie}
+Ask to give me the {Property} of {The Godfather Part II|Movie}
+Ask to give me the {Property} of {On the Waterfront|Movie}
+Ask to give me the {Property} of {Vertigo|Movie}
+Ask to give me the {Property} of {Forrest Gump|Movie}
+Ask to give me the {Property} of {The Sound of Music|Movie}
+Ask to give me the {Property} of {West Side Story|Movie}
+Ask to give me the {Property} of {Star Wars|Movie}
+Ask to give me the {Property} of {E.T. the Extra-Terrestrial|Movie}
+Ask to give me the {Property} of {two zero zero one  A Space Odyssey|Movie}
+Ask to give me the {Property} of {The Silence of the Lambs|Movie}
+Ask to give me the {Property} of {Chinatown|Movie}
+Ask to give me the {Property} of {The Bridge on the River Kwai|Movie}
+Ask to give me the {Property} of {Singin' in the Rain|Movie}
+Ask to give me the {Property} of {It's a Wonderful Life|Movie}
+Ask to give me the {Property} of {Some Like It Hot|Movie}
+Ask to give me the {Property} of {one two  Angry Men|Movie}
+Ask to give me the {Property} of {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask to give me the {Property} of {Amadeus|Movie}
+Ask to give me the {Property} of {Ben-Hur|Movie}
+Ask to give me the {Property} of {Apocalypse Now|Movie}
+Ask to give me the {Property} of {The Lord of the Rings The Return of the King|Movie}
+Ask to give me the {Property} of {Gladiator|Movie}
+Ask to give me the {Property} of {From Here to Eternity|Movie}
+Ask to give me the {Property} of {Titanic|Movie}
+Ask to give me the {Property} of {Saving Private Ryan|Movie}
+Ask to give me the {Property} of {Unforgiven|Movie}
+Ask to give me the {Property} of {Raiders of the Lost Ark|Movie}
+Ask to give me the {Property} of {Rocky|Movie}
+Ask to give me the {Property} of {A Streetcar Named Desire|Movie}
+Ask to give me the {Property} of {The Philadelphia Story|Movie}
+Ask to give me the {Property} of {To Kill a Mockingbird|Movie}
+Ask to give me the {Property} of {An American in Paris|Movie}
+Ask to give me the {Property} of {The Best Years of Our Lives|Movie}
+Ask to give me the {Property} of {My Fair Lady|Movie}
+Ask to give me the {Property} of {A Clockwork Orange|Movie}
+Ask to give me the {Property} of {Doctor Zhivago|Movie}
+Ask to give me the {Property} of {Patton|Movie}
+Ask to give me the {Property} of {Jaws|Movie}
+Ask to give me the {Property} of {Braveheart|Movie}
+Ask to give me the {Property} of {Butch Cassidy and the Sundance Kid|Movie}
+Ask to give me the {Property} of {The Good the Bad and the Ugly|Movie}
+Ask to give me the {Property} of {The Treasure of the Sierra Madre|Movie}
+Ask to give me the {Property} of {The Apartment|Movie}
+Ask to give me the {Property} of {Platoon|Movie}
+Ask to give me the {Property} of {High Noon|Movie}
+Ask to give me the {Property} of {Dances with Wolves|Movie}
+Ask to give me the {Property} of {The Pianist|Movie}
+Ask to give me the {Property} of {Goodfellas|Movie}
+Ask to give me the {Property} of {The Exorcist|Movie}
+Ask to give me the {Property} of {The Deer Hunter|Movie}
+Ask to give me the {Property} of {All Quiet on the Western Front|Movie}
+Ask to give me the {Property} of {Bonnie and Clyde|Movie}
+Ask to give me the {Property} of {The French Connection|Movie}
+Ask to give me the {Property} of {City Lights|Movie}
+Ask to give me the {Property} of {It Happened One Night|Movie}
+Ask to give me the {Property} of {A Place in the Sun|Movie}
+Ask to give me the {Property} of {Midnight Cowboy|Movie}
+Ask to give me the {Property} of {Mr. Smith Goes to Washington|Movie}
+Ask to give me the {Property} of {Rain Man|Movie}
+Ask to give me the {Property} of {Annie Hall|Movie}
+Ask to give me the {Property} of {Tootsie|Movie}
+Ask to give me the {Property} of {Fargo|Movie}
+Ask to give me the {Property} of {Giant|Movie}
+Ask to give me the {Property} of {The Grapes of Wrath|Movie}
+Ask to give me the {Property} of {Good Will Hunting|Movie}
+Ask to give me the {Property} of {Shane|Movie}
+Ask to give me the {Property} of {Terms of Endearment|Movie}
+Ask to give me the {Property} of {The Green Mile|Movie}
+Ask to give me the {Property} of {Close Encounters of the Third Kind|Movie}
+Ask to give me the {Property} of {Nashville|Movie}
+Ask to give me the {Property} of {Network|Movie}
+Ask to give me the {Property} of {The Graduate|Movie}
+Ask to give me the {Property} of {American Graffiti|Movie}
+Ask to give me the {Property} of {Pulp Fiction|Movie}
+Ask to give me the {Property} of {The African Queen|Movie}
+Ask to give me the {Property} of {Stagecoach|Movie}
+Ask to give me the {Property} of {Mutiny on the Bounty|Movie}
+Ask to give me the {Property} of {The Great Dictator|Movie}
+Ask to give me the {Property} of {The Maltese Falcon|Movie}
+Ask to give me the {Property} of {Taxi Driver|Movie}
+Ask to give me the {Property} of {Wuthering Heights|Movie}
+Ask to give me the {Property} of {Double Indemnity|Movie}
+Ask to give me the {Property} of {Rebel Without a Cause|Movie}
+Ask to give me the {Property} of {Rear Window|Movie}
+Ask to give me the {Property} of {The Third Man|Movie}
+Ask to give me the {Property} of {Frankenstein|Movie}
+Ask to give me the {Property} of {North by Northwest|Movie}
+Ask to give me the {Property} of {Yankee Doodle Dandy|Movie}
+Ask to give me the {Property} for {The Godfather|Movie}
+Ask to give me the {Property} for {The Shawshank Redemption|Movie}
+Ask to give me the {Property} for {Schindler's List|Movie}
+Ask to give me the {Property} for {Raging Bull|Movie}
+Ask to give me the {Property} for {Casablanca|Movie}
+Ask to give me the {Property} for {One Flew Over the Cuckoo's Nest|Movie}
+Ask to give me the {Property} for {Gone with the Wind|Movie}
+Ask to give me the {Property} for {Citizen Kane|Movie}
+Ask to give me the {Property} for {The Wizard of Oz|Movie}
+Ask to give me the {Property} for {Lawrence of Arabia|Movie}
+Ask to give me the {Property} for {Sunset Blvd.|Movie}
+Ask to give me the {Property} for {Psycho|Movie}
+Ask to give me the {Property} for {The Godfather Part II|Movie}
+Ask to give me the {Property} for {On the Waterfront|Movie}
+Ask to give me the {Property} for {Vertigo|Movie}
+Ask to give me the {Property} for {Forrest Gump|Movie}
+Ask to give me the {Property} for {The Sound of Music|Movie}
+Ask to give me the {Property} for {West Side Story|Movie}
+Ask to give me the {Property} for {Star Wars|Movie}
+Ask to give me the {Property} for {E.T. the Extra-Terrestrial|Movie}
+Ask to give me the {Property} for {two zero zero one  A Space Odyssey|Movie}
+Ask to give me the {Property} for {The Silence of the Lambs|Movie}
+Ask to give me the {Property} for {Chinatown|Movie}
+Ask to give me the {Property} for {The Bridge on the River Kwai|Movie}
+Ask to give me the {Property} for {Singin' in the Rain|Movie}
+Ask to give me the {Property} for {It's a Wonderful Life|Movie}
+Ask to give me the {Property} for {Some Like It Hot|Movie}
+Ask to give me the {Property} for {one two  Angry Men|Movie}
+Ask to give me the {Property} for {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask to give me the {Property} for {Amadeus|Movie}
+Ask to give me the {Property} for {Ben-Hur|Movie}
+Ask to give me the {Property} for {Apocalypse Now|Movie}
+Ask to give me the {Property} for {The Lord of the Rings The Return of the King|Movie}
+Ask to give me the {Property} for {Gladiator|Movie}
+Ask to give me the {Property} for {From Here to Eternity|Movie}
+Ask to give me the {Property} for {Titanic|Movie}
+Ask to give me the {Property} for {Saving Private Ryan|Movie}
+Ask to give me the {Property} for {Unforgiven|Movie}
+Ask to give me the {Property} for {Raiders of the Lost Ark|Movie}
+Ask to give me the {Property} for {Rocky|Movie}
+Ask to give me the {Property} for {A Streetcar Named Desire|Movie}
+Ask to give me the {Property} for {The Philadelphia Story|Movie}
+Ask to give me the {Property} for {To Kill a Mockingbird|Movie}
+Ask to give me the {Property} for {An American in Paris|Movie}
+Ask to give me the {Property} for {The Best Years of Our Lives|Movie}
+Ask to give me the {Property} for {My Fair Lady|Movie}
+Ask to give me the {Property} for {A Clockwork Orange|Movie}
+Ask to give me the {Property} for {Doctor Zhivago|Movie}
+Ask to give me the {Property} for {Patton|Movie}
+Ask to give me the {Property} for {Jaws|Movie}
+Ask to give me the {Property} for {Braveheart|Movie}
+Ask to give me the {Property} for {Butch Cassidy and the Sundance Kid|Movie}
+Ask to give me the {Property} for {The Good the Bad and the Ugly|Movie}
+Ask to give me the {Property} for {The Treasure of the Sierra Madre|Movie}
+Ask to give me the {Property} for {The Apartment|Movie}
+Ask to give me the {Property} for {Platoon|Movie}
+Ask to give me the {Property} for {High Noon|Movie}
+Ask to give me the {Property} for {Dances with Wolves|Movie}
+Ask to give me the {Property} for {The Pianist|Movie}
+Ask to give me the {Property} for {Goodfellas|Movie}
+Ask to give me the {Property} for {The Exorcist|Movie}
+Ask to give me the {Property} for {The Deer Hunter|Movie}
+Ask to give me the {Property} for {All Quiet on the Western Front|Movie}
+Ask to give me the {Property} for {Bonnie and Clyde|Movie}
+Ask to give me the {Property} for {The French Connection|Movie}
+Ask to give me the {Property} for {City Lights|Movie}
+Ask to give me the {Property} for {It Happened One Night|Movie}
+Ask to give me the {Property} for {A Place in the Sun|Movie}
+Ask to give me the {Property} for {Midnight Cowboy|Movie}
+Ask to give me the {Property} for {Mr. Smith Goes to Washington|Movie}
+Ask to give me the {Property} for {Rain Man|Movie}
+Ask to give me the {Property} for {Annie Hall|Movie}
+Ask to give me the {Property} for {Tootsie|Movie}
+Ask to give me the {Property} for {Fargo|Movie}
+Ask to give me the {Property} for {Giant|Movie}
+Ask to give me the {Property} for {The Grapes of Wrath|Movie}
+Ask to give me the {Property} for {Good Will Hunting|Movie}
+Ask to give me the {Property} for {Shane|Movie}
+Ask to give me the {Property} for {Terms of Endearment|Movie}
+Ask to give me the {Property} for {The Green Mile|Movie}
+Ask to give me the {Property} for {Close Encounters of the Third Kind|Movie}
+Ask to give me the {Property} for {Nashville|Movie}
+Ask to give me the {Property} for {Network|Movie}
+Ask to give me the {Property} for {The Graduate|Movie}
+Ask to give me the {Property} for {American Graffiti|Movie}
+Ask to give me the {Property} for {Pulp Fiction|Movie}
+Ask to give me the {Property} for {The African Queen|Movie}
+Ask to give me the {Property} for {Stagecoach|Movie}
+Ask to give me the {Property} for {Mutiny on the Bounty|Movie}
+Ask to give me the {Property} for {The Great Dictator|Movie}
+Ask to give me the {Property} for {The Maltese Falcon|Movie}
+Ask to give me the {Property} for {Taxi Driver|Movie}
+Ask to give me the {Property} for {Wuthering Heights|Movie}
+Ask to give me the {Property} for {Double Indemnity|Movie}
+Ask to give me the {Property} for {Rebel Without a Cause|Movie}
+Ask to give me the {Property} for {Rear Window|Movie}
+Ask to give me the {Property} for {The Third Man|Movie}
+Ask to give me the {Property} for {Frankenstein|Movie}
+Ask to give me the {Property} for {North by Northwest|Movie}
+Ask to give me the {Property} for {Yankee Doodle Dandy|Movie}
+Ask to tell me the {Property} of {The Godfather|Movie}
+Ask to tell me the {Property} of {The Shawshank Redemption|Movie}
+Ask to tell me the {Property} of {Schindler's List|Movie}
+Ask to tell me the {Property} of {Raging Bull|Movie}
+Ask to tell me the {Property} of {Casablanca|Movie}
+Ask to tell me the {Property} of {One Flew Over the Cuckoo's Nest|Movie}
+Ask to tell me the {Property} of {Gone with the Wind|Movie}
+Ask to tell me the {Property} of {Citizen Kane|Movie}
+Ask to tell me the {Property} of {The Wizard of Oz|Movie}
+Ask to tell me the {Property} of {Lawrence of Arabia|Movie}
+Ask to tell me the {Property} of {Sunset Blvd.|Movie}
+Ask to tell me the {Property} of {Psycho|Movie}
+Ask to tell me the {Property} of {The Godfather Part II|Movie}
+Ask to tell me the {Property} of {On the Waterfront|Movie}
+Ask to tell me the {Property} of {Vertigo|Movie}
+Ask to tell me the {Property} of {Forrest Gump|Movie}
+Ask to tell me the {Property} of {The Sound of Music|Movie}
+Ask to tell me the {Property} of {West Side Story|Movie}
+Ask to tell me the {Property} of {Star Wars|Movie}
+Ask to tell me the {Property} of {E.T. the Extra-Terrestrial|Movie}
+Ask to tell me the {Property} of {two zero zero one  A Space Odyssey|Movie}
+Ask to tell me the {Property} of {The Silence of the Lambs|Movie}
+Ask to tell me the {Property} of {Chinatown|Movie}
+Ask to tell me the {Property} of {The Bridge on the River Kwai|Movie}
+Ask to tell me the {Property} of {Singin' in the Rain|Movie}
+Ask to tell me the {Property} of {It's a Wonderful Life|Movie}
+Ask to tell me the {Property} of {Some Like It Hot|Movie}
+Ask to tell me the {Property} of {one two  Angry Men|Movie}
+Ask to tell me the {Property} of {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask to tell me the {Property} of {Amadeus|Movie}
+Ask to tell me the {Property} of {Ben-Hur|Movie}
+Ask to tell me the {Property} of {Apocalypse Now|Movie}
+Ask to tell me the {Property} of {The Lord of the Rings The Return of the King|Movie}
+Ask to tell me the {Property} of {Gladiator|Movie}
+Ask to tell me the {Property} of {From Here to Eternity|Movie}
+Ask to tell me the {Property} of {Titanic|Movie}
+Ask to tell me the {Property} of {Saving Private Ryan|Movie}
+Ask to tell me the {Property} of {Unforgiven|Movie}
+Ask to tell me the {Property} of {Raiders of the Lost Ark|Movie}
+Ask to tell me the {Property} of {Rocky|Movie}
+Ask to tell me the {Property} of {A Streetcar Named Desire|Movie}
+Ask to tell me the {Property} of {The Philadelphia Story|Movie}
+Ask to tell me the {Property} of {To Kill a Mockingbird|Movie}
+Ask to tell me the {Property} of {An American in Paris|Movie}
+Ask to tell me the {Property} of {The Best Years of Our Lives|Movie}
+Ask to tell me the {Property} of {My Fair Lady|Movie}
+Ask to tell me the {Property} of {A Clockwork Orange|Movie}
+Ask to tell me the {Property} of {Doctor Zhivago|Movie}
+Ask to tell me the {Property} of {Patton|Movie}
+Ask to tell me the {Property} of {Jaws|Movie}
+Ask to tell me the {Property} of {Braveheart|Movie}
+Ask to tell me the {Property} of {Butch Cassidy and the Sundance Kid|Movie}
+Ask to tell me the {Property} of {The Good the Bad and the Ugly|Movie}
+Ask to tell me the {Property} of {The Treasure of the Sierra Madre|Movie}
+Ask to tell me the {Property} of {The Apartment|Movie}
+Ask to tell me the {Property} of {Platoon|Movie}
+Ask to tell me the {Property} of {High Noon|Movie}
+Ask to tell me the {Property} of {Dances with Wolves|Movie}
+Ask to tell me the {Property} of {The Pianist|Movie}
+Ask to tell me the {Property} of {Goodfellas|Movie}
+Ask to tell me the {Property} of {The Exorcist|Movie}
+Ask to tell me the {Property} of {The Deer Hunter|Movie}
+Ask to tell me the {Property} of {All Quiet on the Western Front|Movie}
+Ask to tell me the {Property} of {Bonnie and Clyde|Movie}
+Ask to tell me the {Property} of {The French Connection|Movie}
+Ask to tell me the {Property} of {City Lights|Movie}
+Ask to tell me the {Property} of {It Happened One Night|Movie}
+Ask to tell me the {Property} of {A Place in the Sun|Movie}
+Ask to tell me the {Property} of {Midnight Cowboy|Movie}
+Ask to tell me the {Property} of {Mr. Smith Goes to Washington|Movie}
+Ask to tell me the {Property} of {Rain Man|Movie}
+Ask to tell me the {Property} of {Annie Hall|Movie}
+Ask to tell me the {Property} of {Tootsie|Movie}
+Ask to tell me the {Property} of {Fargo|Movie}
+Ask to tell me the {Property} of {Giant|Movie}
+Ask to tell me the {Property} of {The Grapes of Wrath|Movie}
+Ask to tell me the {Property} of {Good Will Hunting|Movie}
+Ask to tell me the {Property} of {Shane|Movie}
+Ask to tell me the {Property} of {Terms of Endearment|Movie}
+Ask to tell me the {Property} of {The Green Mile|Movie}
+Ask to tell me the {Property} of {Close Encounters of the Third Kind|Movie}
+Ask to tell me the {Property} of {Nashville|Movie}
+Ask to tell me the {Property} of {Network|Movie}
+Ask to tell me the {Property} of {The Graduate|Movie}
+Ask to tell me the {Property} of {American Graffiti|Movie}
+Ask to tell me the {Property} of {Pulp Fiction|Movie}
+Ask to tell me the {Property} of {The African Queen|Movie}
+Ask to tell me the {Property} of {Stagecoach|Movie}
+Ask to tell me the {Property} of {Mutiny on the Bounty|Movie}
+Ask to tell me the {Property} of {The Great Dictator|Movie}
+Ask to tell me the {Property} of {The Maltese Falcon|Movie}
+Ask to tell me the {Property} of {Taxi Driver|Movie}
+Ask to tell me the {Property} of {Wuthering Heights|Movie}
+Ask to tell me the {Property} of {Double Indemnity|Movie}
+Ask to tell me the {Property} of {Rebel Without a Cause|Movie}
+Ask to tell me the {Property} of {Rear Window|Movie}
+Ask to tell me the {Property} of {The Third Man|Movie}
+Ask to tell me the {Property} of {Frankenstein|Movie}
+Ask to tell me the {Property} of {North by Northwest|Movie}
+Ask to tell me the {Property} of {Yankee Doodle Dandy|Movie}
+Ask to tell me the {Property} for {The Godfather|Movie}
+Ask to tell me the {Property} for {The Shawshank Redemption|Movie}
+Ask to tell me the {Property} for {Schindler's List|Movie}
+Ask to tell me the {Property} for {Raging Bull|Movie}
+Ask to tell me the {Property} for {Casablanca|Movie}
+Ask to tell me the {Property} for {One Flew Over the Cuckoo's Nest|Movie}
+Ask to tell me the {Property} for {Gone with the Wind|Movie}
+Ask to tell me the {Property} for {Citizen Kane|Movie}
+Ask to tell me the {Property} for {The Wizard of Oz|Movie}
+Ask to tell me the {Property} for {Lawrence of Arabia|Movie}
+Ask to tell me the {Property} for {Sunset Blvd.|Movie}
+Ask to tell me the {Property} for {Psycho|Movie}
+Ask to tell me the {Property} for {The Godfather Part II|Movie}
+Ask to tell me the {Property} for {On the Waterfront|Movie}
+Ask to tell me the {Property} for {Vertigo|Movie}
+Ask to tell me the {Property} for {Forrest Gump|Movie}
+Ask to tell me the {Property} for {The Sound of Music|Movie}
+Ask to tell me the {Property} for {West Side Story|Movie}
+Ask to tell me the {Property} for {Star Wars|Movie}
+Ask to tell me the {Property} for {E.T. the Extra-Terrestrial|Movie}
+Ask to tell me the {Property} for {two zero zero one  A Space Odyssey|Movie}
+Ask to tell me the {Property} for {The Silence of the Lambs|Movie}
+Ask to tell me the {Property} for {Chinatown|Movie}
+Ask to tell me the {Property} for {The Bridge on the River Kwai|Movie}
+Ask to tell me the {Property} for {Singin' in the Rain|Movie}
+Ask to tell me the {Property} for {It's a Wonderful Life|Movie}
+Ask to tell me the {Property} for {Some Like It Hot|Movie}
+Ask to tell me the {Property} for {one two  Angry Men|Movie}
+Ask to tell me the {Property} for {Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb|Movie}
+Ask to tell me the {Property} for {Amadeus|Movie}
+Ask to tell me the {Property} for {Ben-Hur|Movie}
+Ask to tell me the {Property} for {Apocalypse Now|Movie}
+Ask to tell me the {Property} for {The Lord of the Rings The Return of the King|Movie}
+Ask to tell me the {Property} for {Gladiator|Movie}
+Ask to tell me the {Property} for {From Here to Eternity|Movie}
+Ask to tell me the {Property} for {Titanic|Movie}
+Ask to tell me the {Property} for {Saving Private Ryan|Movie}
+Ask to tell me the {Property} for {Unforgiven|Movie}
+Ask to tell me the {Property} for {Raiders of the Lost Ark|Movie}
+Ask to tell me the {Property} for {Rocky|Movie}
+Ask to tell me the {Property} for {A Streetcar Named Desire|Movie}
+Ask to tell me the {Property} for {The Philadelphia Story|Movie}
+Ask to tell me the {Property} for {To Kill a Mockingbird|Movie}
+Ask to tell me the {Property} for {An American in Paris|Movie}
+Ask to tell me the {Property} for {The Best Years of Our Lives|Movie}
+Ask to tell me the {Property} for {My Fair Lady|Movie}
+Ask to tell me the {Property} for {A Clockwork Orange|Movie}
+Ask to tell me the {Property} for {Doctor Zhivago|Movie}
+Ask to tell me the {Property} for {Patton|Movie}
+Ask to tell me the {Property} for {Jaws|Movie}
+Ask to tell me the {Property} for {Braveheart|Movie}
+Ask to tell me the {Property} for {Butch Cassidy and the Sundance Kid|Movie}
+Ask to tell me the {Property} for {The Good the Bad and the Ugly|Movie}
+Ask to tell me the {Property} for {The Treasure of the Sierra Madre|Movie}
+Ask to tell me the {Property} for {The Apartment|Movie}
+Ask to tell me the {Property} for {Platoon|Movie}
+Ask to tell me the {Property} for {High Noon|Movie}
+Ask to tell me the {Property} for {Dances with Wolves|Movie}
+Ask to tell me the {Property} for {The Pianist|Movie}
+Ask to tell me the {Property} for {Goodfellas|Movie}
+Ask to tell me the {Property} for {The Exorcist|Movie}
+Ask to tell me the {Property} for {The Deer Hunter|Movie}
+Ask to tell me the {Property} for {All Quiet on the Western Front|Movie}
+Ask to tell me the {Property} for {Bonnie and Clyde|Movie}
+Ask to tell me the {Property} for {The French Connection|Movie}
+Ask to tell me the {Property} for {City Lights|Movie}
+Ask to tell me the {Property} for {It Happened One Night|Movie}
+Ask to tell me the {Property} for {A Place in the Sun|Movie}
+Ask to tell me the {Property} for {Midnight Cowboy|Movie}
+Ask to tell me the {Property} for {Mr. Smith Goes to Washington|Movie}
+Ask to tell me the {Property} for {Rain Man|Movie}
+Ask to tell me the {Property} for {Annie Hall|Movie}
+Ask to tell me the {Property} for {Tootsie|Movie}
+Ask to tell me the {Property} for {Fargo|Movie}
+Ask to tell me the {Property} for {Giant|Movie}
+Ask to tell me the {Property} for {The Grapes of Wrath|Movie}
+Ask to tell me the {Property} for {Good Will Hunting|Movie}
+Ask to tell me the {Property} for {Shane|Movie}
+Ask to tell me the {Property} for {Terms of Endearment|Movie}
+Ask to tell me the {Property} for {The Green Mile|Movie}
+Ask to tell me the {Property} for {Close Encounters of the Third Kind|Movie}
+Ask to tell me the {Property} for {Nashville|Movie}
+Ask to tell me the {Property} for {Network|Movie}
+Ask to tell me the {Property} for {The Graduate|Movie}
+Ask to tell me the {Property} for {American Graffiti|Movie}
+Ask to tell me the {Property} for {Pulp Fiction|Movie}
+Ask to tell me the {Property} for {The African Queen|Movie}
+Ask to tell me the {Property} for {Stagecoach|Movie}
+Ask to tell me the {Property} for {Mutiny on the Bounty|Movie}
+Ask to tell me the {Property} for {The Great Dictator|Movie}
+Ask to tell me the {Property} for {The Maltese Falcon|Movie}
+Ask to tell me the {Property} for {Taxi Driver|Movie}
+Ask to tell me the {Property} for {Wuthering Heights|Movie}
+Ask to tell me the {Property} for {Double Indemnity|Movie}
+Ask to tell me the {Property} for {Rebel Without a Cause|Movie}
+Ask to tell me the {Property} for {Rear Window|Movie}
+Ask to tell me the {Property} for {The Third Man|Movie}
+Ask to tell me the {Property} for {Frankenstein|Movie}
+Ask to tell me the {Property} for {North by Northwest|Movie}
+Ask to tell me the {Property} for {Yankee Doodle Dandy|Movie}
